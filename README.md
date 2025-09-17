@@ -15,7 +15,6 @@ The system displays light intensity levels on a **seven-segment display** while 
 ## Video Explanations
 
 👉 [Demonstration Video Folder](https://your-demo-link-here)
-![Alt text for the image](C:\Users\DELL\OneDrive\Pictures\Screenshots)
 
 
 ---
