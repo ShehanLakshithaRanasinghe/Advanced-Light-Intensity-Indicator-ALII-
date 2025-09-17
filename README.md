@@ -1,6 +1,6 @@
 # Advanced Light Intensity Indicator (ALII)
 
-A hardware-based light monitoring and display system that translates ambient light levels into a **0–7 scale** using only op-amps, comparators, logic gates, and flip-flops — ensuring stable, reliable readings without microcontrollers or specialized ICs.
+A hardware-based light monitoring and display system that translates ambient light levels into a **0–7 scale** using only op-amps, comparators, logic gates, and flip-flops  ensuring stable, reliable readings without microcontrollers or specialized ICs.
 
 ---
 
