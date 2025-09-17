@@ -10,6 +10,9 @@ A hardware-based light monitoring and display system that translates ambient lig
 A hardware-based light monitoring and display system that translates ambient light levels into a **0–7 scale** using only op-amps, comparators, logic gates, and flip-flops  ensuring stable, reliable readings without microcontrollers or specialized ICs.
 
 ---
+### Oscillator Simulation
+![Oscillator Simulation](images/Screenshot_of_simulation.png)
+---
 
 ## Overview
 
