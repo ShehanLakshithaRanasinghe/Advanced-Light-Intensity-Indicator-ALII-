@@ -1,4 +1,12 @@
 # Advanced Light Intensity Indicator (ALII)
+[![Status](https://img.shields.io/badge/Project%20Status-Completed-green)]()  
+[![Technology](https://img.shields.io/badge/Technology-OpAmps%20%7C%20Logic%20Gates%20%7C%20FlipFlops-blue)]()  
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()  
+[![Made With](https://img.shields.io/badge/Made%20With-Falstad%20%26%20LTspice-orange)]()  
+[![Display](https://img.shields.io/badge/Output-7--Segment-red)]()  
+
+A hardware-based light monitoring and display system that translates ambient light levels into a **0–7 scale** using only op-amps, comparators, logic gates, and flip-flops — ensuring stable, reliable readings without microcontrollers or specialized ICs.  
+
 
 A hardware-based light monitoring and display system that translates ambient light levels into a **0–7 scale** using only op-amps, comparators, logic gates, and flip-flops  ensuring stable, reliable readings without microcontrollers or specialized ICs.
 
