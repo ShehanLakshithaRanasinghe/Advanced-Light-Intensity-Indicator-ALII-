@@ -40,6 +40,11 @@ The system displays light intensity levels on a **seven-segment display** while 
 
 ---
 
+### Oscillator Simulation
+![Oscillator Simulation](Screenshot_2025-09-17_105950.png)
+
+---
+
 ## System Architecture
 
 ```
