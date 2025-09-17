@@ -14,7 +14,7 @@ The system displays light intensity levels on a **seven-segment display** while 
 
 ## Video Explanations
 
-👉 [Demonstration Video Folder](https://your-demo-link-here)
+👉 [Demonstration Video Folder](https://drive.google.com/drive/folders/10yKoOL6ZhvUNLYHSySBeZGKUMJKicJC7?usp=drive_link)
 
 
 ---
